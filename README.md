@@ -1,11 +1,11 @@
 
 # Gamebase SDK for iOS
 
-This is the repository for distributing Gamebase SDK for iOS.
+This is the repository for distributing [Gamebase SDK for iOS](http://docs.toast.com/ko/Game/Gamebase/ko/Overview/).
 
 # Requirements
 
-iOS 8+ / Xcode 9+ / Supports arm7, arm7s, arm64, i386, x86_64
+iOS 8+ / Xcode 10+ / Supports arm7, arm7s, arm64, i386, x86_64
 
 # Installation
 
@@ -24,7 +24,7 @@ pod 'GamebaseAuthGoogleAdapter'
 pod 'GamebaseAuthLineAdapter'
 pod 'GamebasePushAdapter'
 pod 'GamebasePurchaseIAPAdapter'
-  ```
+```
 
 # Open-source license
 
